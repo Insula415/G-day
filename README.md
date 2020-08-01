@@ -2,3 +2,5 @@
 Type "goodmorning" into the terminal and it outputs the date, time, international day and world times 
 
 Instructions in "info.txt"
+
+<img src="url/image.png">
