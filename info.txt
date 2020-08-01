@@ -11,7 +11,7 @@
 so it is executable in all directories but for now I'm too lazy to do that.
 
 THIS WILL NOT WORK WITH A VPN
-
+Websites used: "https://www.daysoftheyear.com/", "https://www.azquotes.com/quote_of_the_day.html"
 
 My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
 
