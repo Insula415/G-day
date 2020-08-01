@@ -1,0 +1,17 @@
+1. Right click on "goodmorning", go to properties and edit the permissons to make the file executable / run as a program.
+
+2. Go into the directory of the "goodmorning" file (eg /home/usr/Desktop/G'day/) and open the terminal here
+   I'd put all the files on Desktop as you can only currently run this script in the directory it is located in. 
+
+3. Now type $ sudo cp goodmorning /usr/bin/
+
+4. Execute by typing goodmorning in the terminal (Note that you have to be in the directory of the files to execute)
+
+"goodmorning" and "gm.py" are on my Desktop so i only have to go into the Desktop terminal to execute it. I will eventually make it
+so it is executable in all directories but for now I'm too lazy to do that.
+
+
+My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
+
+ 
+
