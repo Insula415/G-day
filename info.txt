@@ -10,6 +10,8 @@
 "goodmorning" and "gm.py" are on my Desktop so i only have to go into the Desktop terminal to execute it. I will eventually make it
 so it is executable in all directories but for now I'm too lazy to do that.
 
+THIS WILL NOT WORK WITH A VPN
+
 
 My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
 
