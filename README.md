@@ -3,5 +3,5 @@ Type "goodmorning" into the terminal and it outputs the date, time, the internat
 
 Instructions in "info.txt"
 
-<img src="view.png">
+<img src="eg.png">
 
