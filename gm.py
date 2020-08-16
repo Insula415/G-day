@@ -60,6 +60,8 @@ soup = BeautifulSoup(b.text,features="html.parser")
 
 quote = soup.find('a', {'class':'title'}).text
 print(quote)
+author = soup.find('div', {'class':'author_nopic'}).text
+print("-"+author)
 
 print("--------------------")
 print("Let's make today productive!!")
