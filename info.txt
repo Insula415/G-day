@@ -8,6 +8,7 @@ The last word is what you need to type in the terminal, example: sudo cp gm.py /
 THIS WILL NOT WORK WITH A VPN
 Websites used: "https://www.daysoftheyear.com/", "https://www.azquotes.com/quote_of_the_day.html"
 
-My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
+Thanks, 
+Insula
  
 
